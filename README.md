@@ -1,4 +1,4 @@
 # machine learning
-This is a machine learning model repository.
+This is a machine learning repository.
 
 # Author - Goutam M
